@@ -8,3 +8,6 @@
 - `sw.js` / `manifest.webmanifest` … ホーム画面に追加してアプリとして使うため
 
 記録は「同期コード」ごとに保存される。スマホの「同期」画面のコードをPCで入れると同じ記録になる。
+
+公開URL：https://tesuto-taisaku.vercel.app
+記録の同期：Vercel Storage の Upstash for Redis（tesuto-taisaku-kv・東京・無料プラン）を接続済み
